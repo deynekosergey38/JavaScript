@@ -7,7 +7,7 @@
 
 // your code
 
-let n = 10
+let n = 10;
 
 let factorial = 1;
 
@@ -17,3 +17,4 @@ while (n > 0) {
 }
 
 console.log(factorial);
+
