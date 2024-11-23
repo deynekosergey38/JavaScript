@@ -5,11 +5,13 @@
 */
 
 // your code
-let sum = 1;
+let sum = 0;
 
-while (sum <= 20) {
-    console.log(sum)
-    sum += 2;
+let n = 1;
+
+while (n <= 20) {
+    sum += n;
+    n += 2;
 }
 
 console.log(sum);
