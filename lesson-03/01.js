@@ -3,7 +3,3 @@
 function calculateAverage(number1, number2) {
     return (number1 + number2) / 2
 }
-
-calculateAverage(20, 20)
-
-    console.log(calculateAverage)
